@@ -1,31 +1,14 @@
-<!-- Profile README for github.com/gaberuseff -->
-<!-- Brand color: #ccc4be7f (alpha not supported by most widgets; using CCC4BE). -->
-
+<!-- Modern header (clean + brand-focused + no heavy gradients) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,50:111827,100:CCC4BE&height=175&section=header&text=Gaber%20Useff&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Build.%20Ship.%20Improve.&descAlignY=72&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:CCC4BE&height=220&section=header&text=Gaber%20Useff&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Build.%20Ship.%20Improve.&descAlignY=60&descSize=18"
   />
 </p>
 
+<!-- Optional: thin brand divider under header -->
 <p align="center">
-  <a href="https://github.com/gaberuseff">
-    <img src="https://img.shields.io/badge/GitHub-CCC4BE?style=flat&logo=github&logoColor=0b1220" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-CCC4BE?style=flat&logo=linkedin&logoColor=0b1220" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-CCC4BE?style=flat&logo=gmail&logoColor=0b1220" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-CCC4BE?style=flat&logo=vercel&logoColor=0b1220" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=2500&pause=800&color=CCC4BE&center=true&vCenter=true&width=520&lines=Front-end+Developer;Full-stack+%7C+%7C+Supabase+%7C+Baas;Always+learning+%26+building" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaberuseff&style=flat&color=CCC4BE" />
-</p>
-
 ---
 
 ## About me
