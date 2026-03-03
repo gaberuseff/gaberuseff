@@ -7,9 +7,8 @@
 
 <!-- Optional: thin brand divider under header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=2500&pause=800&color=CCC4BE&center=true&vCenter=true&width=520&lines=Front-end+Developer;Full-stack+%7C+%7C+Supabase+%7C+Baas;Always+learning+%26+building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=2500&pause=800&color=CCC4BE&center=true&vCenter=true&width=520&lines=Front-end+Developer;Full-stack+%7C+Supabase+%7C+Baas;Always+learning+%26+building" />
 </p>
----
 
 ## About me
 
