@@ -30,20 +30,14 @@
 
 ## About me
 
-Hi, I'm **Gaber** — a **{your role}** building **{what you build}**.  
-I enjoy **{2–3 focus areas}**.
-
-- Currently working on: **{project/area}**
-- Currently learning: **{topic}**
-- Open to: **{freelance/full-time/collabs}**
-- Ask me about: **{topics}**
+Hi, I'm **Gaber** — a **Fron-end Developer** building **Build web apps**.
 
 ---
 
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,react,nextjs,nodejs,tailwind,postgres,mysql,redis,docker,aws,linux,git,githubactions&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,tailwind,supabase,redux,git&perline=9" />
 </p>
 
 ---
