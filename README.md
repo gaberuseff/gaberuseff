@@ -24,25 +24,6 @@ Hi, I'm **Gaber** — a **Fron-end Developer** building **Build web apps**.
 
 ---
 
-## Analytics
-
-<p align="center">
-  <img
-    height="190"
-    loading="lazy"
-    src="https://streak-stats.demolab.com?user=gaberuseff&theme=transparent&hide_border=true&ring=CCC4BE&fire=CCC4BE&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280"
-  />
-</p>
-
-<p align="center">
-  <img
-    loading="lazy"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gaberuseff&bg_color=00000000&color=9CA3AF&line=CCC4BE&point=E5E7EB&area=true&area_color=CCC4BE&hide_border=true"
-  />
-</p>
-
----
-
 ## Contact
 
 - Email: **dev.gaber@gmail.com**
