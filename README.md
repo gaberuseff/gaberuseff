@@ -19,7 +19,7 @@ Hi, I'm **Gaber** — a **Fron-end Developer** building **Build web apps**.
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,tailwind,supabase,redux,git&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,supabase,redux,git&perline=9" />
 </p>
 
 ---
