@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋 I'm Gaber Usef</h1>
+
+<h3 align="center">Frontend Developer specializing in React & Modern Web Technologies</h3>
 
 ###
 
