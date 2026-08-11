@@ -7,10 +7,10 @@ I build modern web applications with a focus on **clean UI, good user experience
 Currently working mainly with **JavaScript, React, Next.js, and Supabase**, while learning backend development and expanding my software engineering skills.
 
 <p>
-  <a href="https://gaberuseff.info">
+  <a href="https://gaberuseff.info" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-gaberuseff.com-111827?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gaberuseff/">
+  <a href="https://www.linkedin.com/in/gaberuseff/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gaber%20Usef-111827?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dev.gaber@gmail.com">
@@ -69,9 +69,9 @@ I'm currently focusing on expanding my skills beyond frontend development.
 ## Connect
 
 <p>
-  <a href="https://gaberuseff.info">Portfolio</a>
+  <a href="https://gaberuseff.info" target="_blank">Portfolio</a>
   ·
-  <a href="https://www.linkedin.com/in/gaberuseff/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/gaberuseff/" target="_blank">LinkedIn</a>
   ·
   <a href="mailto:dev.gaber@gmail.com">Email</a>
 </p>
