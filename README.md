@@ -1,35 +1,81 @@
-<!-- Modern header (clean + brand-focused + no heavy gradients) -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:CCC4BE&height=220&section=header&text=Gaber%20Useff&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Build.%20Ship.%20Improve.&descAlignY=60&descSize=18"
-  />
-</p>
+# Hey, I'm Gaber Usef 👋
 
-<!-- Optional: thin brand divider under header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=2500&pause=800&color=CCC4BE&center=true&vCenter=true&width=520&lines=Front-end+Developer;Full-stack+%7C+Supabase+%7C+Baas;Always+learning+%26+building" />
-</p>
+### Frontend Developer · Learning Full-stack Development
 
-## About me
+I build modern web applications with a focus on **clean UI, good user experience, and maintainable code**.
 
-Hi, I'm **Gaber** — a **Fron-end Developer** building **Build web apps**.
-
----
-
-## Tech stack
+Currently working mainly with **JavaScript, React, Next.js, and Supabase**, while learning backend development and expanding my software engineering skills.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,supabase,redux,git&perline=9" />
+  <a href="https://gaberuseff.info">
+    <img src="https://img.shields.io/badge/Portfolio-gaberuseff.com-111827?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gaberuseff/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gaber%20Usef-111827?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dev.gaber@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-111827?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## Contact
+## About
 
-- Email: **dev.gaber@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/gaberuseff/**
-- Portfolio: **https://gaberuseff.com**
+I'm a Computer Science student and a **Frontend Developer** passionate about building modern web applications.
+
+I enjoy turning ideas into real products and continuously improving my skills through **building, experimenting, and learning**.
+
+Currently, I'm expanding my knowledge into **backend development** and learning how the different parts of a web application work together.
+
+---
+
+## Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,redux" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
+
+---
+
+## Currently Learning
+
+I'm currently focusing on expanding my skills beyond frontend development.
+
+* Node.js & Express
+* Backend fundamentals
+* REST APIs
+* database fundamentals
+* Authentication
+* Server-side development
+* Improving my JavaScript skills
+
+---
+
+## Connect
+
+<p>
+  <a href="https://gaberuseff.info">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/gaberuseff/">LinkedIn</a>
+  ·
+  <a href="mailto:dev.gaber@gmail.com">Email</a>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCC4BE,100:0b1220&height=120&section=footer" />
+  <sub>Build. Ship. Improve.</sub>
 </p>
