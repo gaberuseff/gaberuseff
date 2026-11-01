@@ -4,7 +4,7 @@
 
 I build modern web applications with a focus on **clean UI, good user experience, and maintainable code**.
 
-Currently working mainly with **JavaScript, React, Tanstack, Astro, Next.js, and Supabase**, while learning backend development and expanding my software engineering skills.
+Currently working mainly with **JavaScript, React, Tanstack Ecosystem (Start, Router, Query), Astro, Next.js, and Supabase**, while learning backend development and expanding my software engineering skills.
 
 <p>
   <a href="https://gaberuseff.info" target="_blank">
