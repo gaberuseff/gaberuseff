@@ -35,7 +35,7 @@ Currently, I'm expanding my knowledge into **backend development** and learning 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,redux,tanstack" />
 </p>
 
 ### Backend & Database
