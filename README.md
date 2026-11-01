@@ -32,22 +32,8 @@ Currently, I'm expanding my knowledge into **backend development** and learning 
 
 ## Tech Stack
 
-### Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,redux,tanstack" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+ <img src="https://skills.syvixor.com/api/icons?i=tanstack,nextjs,reactjs,astro,tailwindcss,heroui,shadcnui,supabase&perline=12&radius=40" alt="Skill Icons" />
 </p>
 
 ---
