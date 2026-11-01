@@ -36,6 +36,7 @@ Currently, I'm expanding my knowledge into **backend development** and learning 
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,redux" />
+  <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=tanstack&logoColor=white" alt="TanStack" />
 </p>
 
 ### Backend & Database
