@@ -42,13 +42,13 @@ Currently, I'm expanding my knowledge into **backend development** and learning 
 
 I'm currently focusing on expanding my skills beyond frontend development.
 
-* Node.js & Express
+* TanStack Ecosystem
+* Improving my Front-end skills
 * Backend fundamentals
 * REST APIs
 * database fundamentals
 * Authentication
 * Server-side development
-* Improving my JavaScript skills
 
 ---
 
